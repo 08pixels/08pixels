@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## My Github's statitics
+## My Github's statistics
 <p align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
         <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=08pixels&count_private=true&show_icons=true&theme=react">
